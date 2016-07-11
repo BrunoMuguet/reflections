@@ -1,0 +1,3 @@
+O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+
+O repositório se inicia vazio, pois não necessariamente o usuário quer salvar tudo que está na pasta de cara. É necessário fazer isso para que um arquivo oculto com o histórico do meu projeto seja criado para salvar todo o repositório.

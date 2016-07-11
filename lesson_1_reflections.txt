@@ -1,0 +1,28 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It eliminates all the unchanged data so I can view only the performed 
+changes.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It provides less time waste and easy backup.
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+Por um lado, o salvamento automático é bom em casos de esquecimento ou acidentes (acabar a luz, falha do windows, etc.). Ao escolher manualmente o histórico de mudanças tende a ficar mais organizado e melhor dimensionado para análises futuras.
+
+Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar vários arquivos em um commit, enquanto outros, como o Google Docs, tratam cada arquivo separadamente?
+
+Como o Git é utilizado para códigos, é imteressante que seja otimizado para alterar varios arquivos inter-relacionados entre sí. O google docs é otimizado para documenros, geralmente não relacionados entre sí.
+
+Como usar os comandos git log e git diff para visualizar o histórico dos arquivos?
+
+É possível usa-los para listarmos todos os commits e descobrirmos todos as mudanças em relação a um commit anterior.
+
+De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+O controle de versões permite ao usuário arriscar sem medo de errar. Qualquer erro pode ser facilmente recuperado para um estado prévio com o auxílio da ferramenta.
+
+Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+Para navegar no repositório
