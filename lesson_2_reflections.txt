@@ -1,3 +1,12 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
 
 O repositório se inicia vazio, pois não necessariamente o usuário quer salvar tudo que está na pasta de cara. É necessário fazer isso para que um arquivo oculto com o histórico do meu projeto seja criado para salvar todo o repositório.
+
+Novos comandos:
+git init
+git add
+git status
+
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+
+A área de preparação ajuda a organizar tudo o que o usuário gostaria de colocar no commit em um lugar prévio, para depois se fazer o comando de commit e assim enviá-la ao repositório.
